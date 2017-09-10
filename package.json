@@ -4,10 +4,31 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "concurrently 'python server.py' 'gulp'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cookyourweb/PracticaFinalFrontEndNinja-KC.git"
+  },
+  "author": "Verónica Serna(cookyourweb)",
   "license": "ISC",
+
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "sass",
+    "jquery",
+    "bootstrap",
+    "responsive"
+  ],
+
+  "bugs": {
+    "url": "https://github.com/cookyourweb/PracticaFinalFrontEndNinja-KC/issues"
+  },
+  "homepage": "https://github.com/cookyourweb/PracticaFinalFrontEndNinja-KC#readme",
+
   "devDependencies": {
     "babelify": "^7.3.0",
     "bootstrap-sass": "^3.3.6",
