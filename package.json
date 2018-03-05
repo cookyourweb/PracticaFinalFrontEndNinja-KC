@@ -13,7 +13,6 @@
   },
   "author": "Verónica Serna(cookyourweb)",
   "license": "ISC",
-
   "keywords": [
     "html",
     "css",
@@ -23,12 +22,10 @@
     "bootstrap",
     "responsive"
   ],
-
   "bugs": {
     "url": "https://github.com/cookyourweb/PracticaFinalFrontEndNinja-KC/issues"
   },
   "homepage": "https://github.com/cookyourweb/PracticaFinalFrontEndNinja-KC#readme",
-
   "devDependencies": {
     "babelify": "^7.3.0",
     "bootstrap-sass": "^3.3.6",
@@ -37,12 +34,11 @@
     "gulp": "^3.9.1",
     "gulp-html-import": "0.0.2",
     "gulp-htmlmin": "^3.0.0",
-    "gulp-notify": "^3.0.0",
+    "gulp-notify": "^3.2.0",
     "gulp-sass": "^2.2.0",
     "gulp-tap": "^1.0.1",
     "json": "^9.0.6",
-    "json-server": "^0.11.2",
-    
+    "json-server": "^0.11.2"
   },
   "dependencies": {
     "jquery": "^3.2.1",
